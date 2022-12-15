@@ -1,0 +1,71 @@
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Yellow Carrot.exe
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Yellow Carrot.deps.json
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Yellow Carrot.runtimeconfig.json
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Yellow Carrot.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Yellow Carrot.pdb
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Yellow Carrot.csproj.AssemblyReference.cache
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Yellow Carrot_MarkupCompile.cache
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Yellow Carrot_MarkupCompile.lref
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Yellow Carrot.g.resources
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Yellow Carrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Yellow Carrot.AssemblyInfoInputs.cache
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Yellow Carrot.AssemblyInfo.cs
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Yellow Carrot.csproj.CoreCompileInputs.cache
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Yellow Carrot.csproj.CopyComplete
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Yellow Carrot.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\refint\Yellow Carrot.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Yellow Carrot.pdb
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Yellow Carrot.genruntimeconfig.cache
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\ref\Yellow Carrot.dll
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Windows\AddRecipeWindow.g.cs
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Windows\DetailsWindow.g.cs
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Windows\RecipeWindow.g.cs
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Windows\AddRecipeWindow.baml
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Windows\DetailsWindow.baml
+C:\Users\Wisam\Desktop\A\Yellow Carrot\Yellow Carrot\obj\Debug\net6.0-windows\Windows\RecipeWindow.baml
