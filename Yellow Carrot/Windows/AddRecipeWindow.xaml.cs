@@ -48,15 +48,15 @@ namespace Yellow_Carrot.Windows
             {
 
                 Recipe recipe = new Recipe();
-                recipe.Ingredients = new List<Ingredient>(); // ny lista, inte null!
+                recipe.Ingredients = new List<Ingredient>(); 
                 recipe.Tags = new List<Tag>();
-                recipe.Name = tbRecipeName.Text; // lägg receptnamnet på vår "Recipe"-klass
-                // Inte riktigt färdig här än 
-                foreach (var item in lvIngredients.Items)
+                recipe.Name = tbRecipeName.Text; 
+                
+                foreach (ListViewItem item in lvIngredients.Items)
                 {
-                    var item2 = item as Ingredient;    //object?             
+                    var item2 = item.Tag as Ingredient;               
 
-                    Ingredient ingredient = new Ingredient(); // new Ingredient klass
+                    Ingredient ingredient = new Ingredient(); 
 
                     ingredient.Name = item2.Name;
                     ingredient.Quantity = item2.Quantity;
@@ -72,6 +72,10 @@ namespace Yellow_Carrot.Windows
                 }
 
                 _recipeRepository.Add(recipe);
+
+                RecipeWindow recipeWindow = new RecipeWindow();
+                recipeWindow.Show();
+                Close();
             }
         }
 
@@ -90,7 +94,12 @@ namespace Yellow_Carrot.Windows
             ingredient.Quantity = quantity;
             ingredient.Name = addIngredient;
 
-            lvIngredients.Items.Add(ingredient);
+            ListViewItem ingredientItem = new ListViewItem();
+
+            ingredientItem.Tag = ingredient;
+            ingredientItem.Content = ingredient.Name;
+
+            lvIngredients.Items.Add(ingredientItem);
             tbIngredient.Clear();
             tbQuantity.Clear();
         }
@@ -102,26 +111,12 @@ namespace Yellow_Carrot.Windows
 
         private void tbIngredient_TextChanged(object sender, TextChangedEventArgs e)
         {
-            if (tbIngredient.Text.Length > 0)
-            {
-                btnAddIngredient.IsEnabled= true;
-            }
-            else
-            {
-                btnAddIngredient.IsEnabled = false;
-            }
+            btnAddIngredient.IsEnabled = tbIngredient.Text.Length > 0 ? true : false;  
         }
 
         private void lvIngredients_SelectionChanged(object sender, RoutedEventArgs e)
         {
-            if (lvIngredients.SelectedItems != null && lvIngredients.SelectedItems.Count > 0)
-            {
-                btnDeleteIngredient.IsEnabled = true;
-            }
-            else
-            {
-                btnDeleteIngredient.IsEnabled = false;
-            }
+            btnDeleteIngredient.IsEnabled = (lvIngredients.SelectedItems != null && lvIngredients.SelectedItems.Count > 0) ? true : false;
         }
 
         private void NumberValidationTextBox(object sender, TextCompositionEventArgs e)
@@ -145,28 +140,12 @@ namespace Yellow_Carrot.Windows
 
         private void tbTag_TextChanged(object sender, TextChangedEventArgs e)
         {
-            if (tbTag.Text.Length > 0)
-            {
-                btnAddTag.IsEnabled = true;
-            }
-            else
-            {
-                btnAddTag.IsEnabled=false;
-            }
+            btnAddTag.IsEnabled = tbTag.Text.Length > 0 ? true : false;
         }
 
         private void lvTag_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            if (lvTag.SelectedItems != null && lvTag.SelectedItems.Count > 0)
-            {
-                btnDeleteTag.IsEnabled= true;
-            }
-            else
-            {
-                btnDeleteTag.IsEnabled=false;
-            }
+            btnDeleteTag.IsEnabled = (lvTag.SelectedItems != null && lvTag.SelectedItems.Count > 0) ? true : false;
         }
-
-        //Lägga till 2 regex på ingredient textbox & tag textbox med bara bokstäver
     }
 }

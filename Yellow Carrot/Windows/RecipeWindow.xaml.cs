@@ -30,10 +30,6 @@ namespace Yellow_Carrot.Windows
 
             var allRecipes = _recipeRepository.GetAllRecipes();
             lvRecipes.ItemsSource = allRecipes;
-            //foreach (var recipe in allRecipes )
-            //{
-            //    lvRecipes.Items.Add(recipe);
-            //}
         }
 
         private void btnAddRecipeWindow_Click(object sender, RoutedEventArgs e)
@@ -54,7 +50,13 @@ namespace Yellow_Carrot.Windows
 
         private void btnDeleteRecipe_Click(object sender, RoutedEventArgs e)
         {
-            //_recipeRepository.Delete()
+            var selectedItem = lvRecipes.SelectedItem as Recipe;
+
+            Recipe foo = _recipeRepository.GetRecipe(selectedItem);
+
+            _recipeRepository.Delete(selectedItem);
+            var allRecipes = _recipeRepository.GetAllRecipes();
+            lvRecipes.ItemsSource = allRecipes;
         }
 
         private void lvRecipes_SelectionChanged(object sender, RoutedEventArgs e)

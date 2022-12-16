@@ -102,7 +102,8 @@
             Grid.ColumnSpan="2"
             Grid.Row="3"
             Grid.RowSpan="4"
-            Margin="0,25,0,0" SelectionChanged="lvIngredients_SelectionChanged"           
+            Margin="0,25,0,0" SelectionChanged="lvIngredients_SelectionChanged"
+            SelectionMode="Single"
             />
         <ListView
             x:Name="lvTag"
@@ -110,7 +111,8 @@
             Grid.ColumnSpan="2"
             Grid.Row="3"
             Grid.RowSpan="4"
-            Margin="0,25,0,0" SelectionChanged="lvTag_SelectionChanged"           
+            Margin="0,25,0,0" SelectionChanged="lvTag_SelectionChanged"
+            SelectionMode="Single"
             />
         <Button
             x:Name="btnAddIngredient"

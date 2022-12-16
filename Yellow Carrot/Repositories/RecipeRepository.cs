@@ -41,6 +41,7 @@ namespace Yellow_Carrot.Repositories
             if (_recipe != null)
             {
                 _recipe.Ingredients = GetIngredientById(_recipe.Id);
+                _recipe.Tags = GetTagById(_recipe.Id);
             }
 
             return _recipe;
@@ -50,6 +51,11 @@ namespace Yellow_Carrot.Repositories
         public List<Ingredient> GetIngredientById(int id)
         {
             return _context.Ingredients.Where(x => x.RecipeId == id).ToList();
+        }
+
+        public List<Tag> GetTagById(int id)
+        {
+            return _context.Tags.Where(x => x.RecipeId == id).ToList();
         }
     }
 }

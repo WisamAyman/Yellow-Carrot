@@ -45,6 +45,7 @@
             Grid.Row="2"
             Grid.RowSpan="4"
             SelectionChanged="lvRecipes_SelectionChanged"
+            SelectionMode="Single"
             >
             <ListView.ItemTemplate>
                 <DataTemplate>

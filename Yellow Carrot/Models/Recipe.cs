@@ -12,7 +12,7 @@ namespace Yellow_Carrot.Models
         [Key]
         public int Id { get; set; }
         public string Name { get; set; }
-        public List<Ingredient> Ingredients { get; set; } //null
-        public List<Tag> Tags { get; set; } //null
+        public List<Ingredient> Ingredients { get; set; }
+        public List<Tag> Tags { get; set; }
     }
 }
