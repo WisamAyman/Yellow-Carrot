@@ -26,6 +26,8 @@ namespace Yellow_Carrot.Windows
 
         public RecipeWindow()
         {
+            DataSeed dataSeed = new DataSeed();          
+
             InitializeComponent();
 
             var allRecipes = _recipeRepository.GetAllRecipes();
